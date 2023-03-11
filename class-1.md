@@ -1,3 +1,5 @@
+Class 1
+
 The phases, or steps, of successful project management are (spoilers) initiation, planning, execution, control, and closure. In this lesson, we dive into what that means.
 
 Project management fits neatly into 5 Phases.
